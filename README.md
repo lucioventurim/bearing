@@ -1,3 +1,3 @@
-= Bearing Article
+# Bearing Article
 
 Bearing article repository.
